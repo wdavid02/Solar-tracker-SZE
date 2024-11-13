@@ -32,7 +32,7 @@ Motor vezérlő: A DC motor meghajtásához egy motorvezétlő volt szükséges 
 
 </details>
 
-##Jelenleg fennálló probléma:
+## Jelenleg fennálló probléma:
 ```r
 Tinkercad szimulációs felületen az Arduino 100mV nagyságrendű PWM jelet állít elő, mely valószínűleg nem elegendő a szervók pozícionálásához
 ```
